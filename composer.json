@@ -1,13 +1,12 @@
 {
-    "name": " cod3venom/event-cluster-php",
+    "name": "cod3venom/event-cluster-php",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=8.1"
     },
     "extra": {
-    "branch-alias": {
-        "master": "0.1.1-dev"
-    }
-    
+        "branch-alias": {
+            "master": "0.1.1-dev"
+        }
     }
 }
